@@ -1,0 +1,12 @@
+.product-img {
+  height: 350px;
+  object-fit: contain;
+}
+.sub-img {
+  height: 150px;
+}
+.btn-act {
+  background-color: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
